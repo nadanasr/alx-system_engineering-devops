@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 egrep -C "bin" /etc/passwd
+=======
+egrep -c "bin" /etc/passwd
+>>>>>>> b05b07b69745c441407955942447d653ca4047c0
